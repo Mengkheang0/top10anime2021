@@ -1,5 +1,6 @@
 '>' > <br>
 '** **' ** BOLD TEXT** <br>
-'* *' *ITALIC TEXT*
-" ~~ ~~ " ~~Crose line ~~
+'* *' *ITALIC TEXT* <br>
+" ~~ ~~ " ~~Crose line~~ <br>
+
 
