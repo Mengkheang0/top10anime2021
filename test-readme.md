@@ -1,1 +1,5 @@
-> this is for learning github lanuage
+'>' >
+'** **' ** BOLD TEXT**
+'* *' *ITALIC TEXT*
+" ~~ ~~ " ~~Crose line ~~
+
